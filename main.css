@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+button {
+    background-color: #61B350;
+    border: 1px solid white;
+    color: white;
+    width: 50px;
+    height: 50px;
+}
+.rightsymbol {
+    background-color: #82C276;
+    color: black;
+}
+.output {
+    height: 50px;
+    width: 150px;
+}
+.clearequal:hover {
+    background-color: #82C276;
+}
+.rightsymbol:hover {
+    color: white;
+}
